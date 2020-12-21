@@ -26,4 +26,4 @@ class instabot:
             .click()
         sleep(10)
         
-instabot('memes_troll_world_69', 'sunny69')
+instabot('Insta user_name', 'Password')
